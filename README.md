@@ -2,6 +2,8 @@
 
 ## Um bot de Discord básico feito em Python:3.9 🐍
 
+Para criar seu próprio bot acesse: https://discord.com/developers/docs/intro
+
 **⚠ Esse bot foi feito com intenções estudantis ⚠**
 
 Versões:
