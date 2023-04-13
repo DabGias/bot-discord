@@ -1,7 +1,5 @@
 # *Pan Troglodytes*
 
-<hr/>
-
 ## Um bot de Discord básico feito em Python:3.9 🐍
 
 **⚠ Esse bot foi feito com intenções estudantis ⚠**
