@@ -4,7 +4,7 @@
 
 Para criar seu próprio bot acesse: https://discord.com/developers/docs/intro
 
-Adicione *Pan Troglodytes* ao seu server <a href=" https://discord.com/api/oauth2/authorize?client_id=1086364822213509241&permissions=1634235574336&scope=bot">aqui!</a>
+Adicione *Pan Troglodytes* ao seu server <a href="https://discord.com/api/oauth2/authorize?client_id=1086364822213509241&permissions=1634235574336&scope=bot">aqui!</a>
 
 **⚠ Esse bot foi feito com intenções estudantis ⚠**
 
